@@ -12,7 +12,7 @@ class Thrift < Formula
   end
 
   head do
-    url "https://git-wip-us.apache.org/repos/asf/thrift.git"
+    url "https://git-wip-us.apache.org/repos/asf?p=thrift.git;a=shortlog;h=refs/heads/0.9.3"
 
     depends_on "autoconf" => :build
     depends_on "automake" => :build
